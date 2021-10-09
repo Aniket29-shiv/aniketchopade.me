@@ -1,3 +1,3 @@
-# Portfolio
+Portfolio
 
-# *aniketchopade.me*
+ *aniketchopade.me*
