@@ -278,3 +278,12 @@
   });
 
 })(jQuery);
+
+// ScrollBar 
+$(window).scroll(function() {
+  if ($(this).scrollTop() > 0) {
+    $('.arrow-down').fadeOut();
+  } else {
+    $('.arrow-down').fadeIn();
+  }
+});
